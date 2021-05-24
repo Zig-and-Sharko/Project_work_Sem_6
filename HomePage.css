@@ -13,6 +13,7 @@ nav
     height: 7vh;
     overflow: hidden;
 }
+ /* This is for  lgogo */
 label.logo
 {   color:aliceblue;
     display: inline-block;
